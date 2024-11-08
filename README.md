@@ -3,22 +3,22 @@
 This application predicts monthly revenue for restaurants based on various inputs, such as customer numbers, menu pricing, marketing spend, and customer reviews. 🚀 The application is powered by a machine learning model, which is deployed as a web service using Flask. This README provides detailed instructions on setting up, running, and testing the application, as well as an explanation of its API endpoints.
 
 ## 📋 Table of Contents
-- [📖 Overview](#overview)
-- [🔧 Prerequisites](#prerequisites)
-- [📁 Project Structure](#project-structure)
-- [⚙️ Setup and Installation](#setup-and-installation)
-- [🚀 Usage](#usage)
-  - [1. Training the Model](#1-training-the-model)
-  - [2. Running the Application](#2-running-the-application)
-  - [3. Testing the Application](#3-testing-the-application)
-  - [4. Containerized Deployment with Docker](#4-containerized-deployment-with-docker)
-  - [5. Environment Variables](#5-environment-variables)
-- [🔌 API Endpoints](#api-endpoints)
-- [🔄 Data Flow Explanation](#data-flow-explanation)
-- [🧠 Model Explanation](#model-explanation)
-- [🛠️ Troubleshooting](#troubleshooting)
-- [📜 License](#license)
-- [📞 Contact](#contact)
+- [📖 Overview](#-overview)
+- [🔧 Prerequisites](#-prerequisites)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Setup and Installation](#%EF%B8%8F-setup-and-installation)
+- [🚀 Usage](#-usage)
+  - [1. Training the Model](#training-the-model)
+  - [2. Running the Application](#running-the-application)
+  - [3. Testing the Application](#testing-the-application)
+  - [4. Containerized Deployment with Docker](#containerized-deployment-with-docker)
+  - [5. Environment Variables](#environment-variables)
+- [🔌 API Endpoints](#-api-endpoints)
+- [🔄 Data Flow Explanation](#-data-flow-explanation)
+- [🧠 Model Explanation](#-model-explanation)
+- [🛠️ Troubleshooting](#%EF%B8%8F-troubleshooting)
+- [📜 License](#-license)
+- [📞 Contact](#-contact)
 
 ## 📖 Overview
 
